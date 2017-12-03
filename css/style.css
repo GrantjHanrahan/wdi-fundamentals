@@ -27,11 +27,13 @@ a {
 	font-weight: 600;
 	font-size: 18px;
 	border-bottom: 2px solid transparent;
+	color: #FFFFFF;
 
 }
 
 a:hover {
 	border-bottom: 2px solid white;
+	color: #0D6AEC;
 
 }
 
@@ -42,12 +44,12 @@ header{
 }
 nav{
 	background-color: #00A6B3;
-	color: white;
+	color: #FFFFFF;
 	padding: 20px 0;
 }
 
 
-#instructions {
+h2 {
 	font-family: "Raleway";
 	color: #0D2C40;
 	letter-spacing: 1px;
@@ -97,7 +99,15 @@ font-size: 0;
 	font-weight: 700;
 }
 
+button{
+	margin-top: 10px;
+	font-size: 16px;
+	font-weight: 500;
 
+}
+button:hover {
+	background-color: rgba(237,57,57,1);
+}
 
 
 
